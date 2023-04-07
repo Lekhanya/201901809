@@ -1,0 +1,15 @@
+Machine Problem 1
+=================
+
+1. After extracting the contents of 201901809.zip, 
+   navigate to the 201901809/ folder on the terminal
+   and run make
+
+Furthermore the 201901809/ folder contains:
+    - Figure_1.png: which shows the data points on a 2D plane
+                    and the best hypothesis, generated from 
+                    running the code
+    - random_data.csv: this document contains the randomly 
+                       generated data points as per requirement 1. 
+    - Makefile: runs "python main.py"
+                            
